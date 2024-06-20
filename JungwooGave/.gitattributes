@@ -1,0 +1,2 @@
+JungwooGave/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+D:Jungwoo-sGraveJungwooGaveLibraryPackageCachecom.unity.burst@1.8.12.Runtime filter=lfs diff=lfs merge=lfs -text
