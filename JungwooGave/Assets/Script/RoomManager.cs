@@ -51,6 +51,8 @@ public class RoomManager : MonoBehaviourPunCallbacks
         roomCam.SetActive(false);
 
         SpawnPlayer();
+
+       PhotonNetwork.LoadLevel("main_Scene");
     }
 
     public void SpawnPlayer()
